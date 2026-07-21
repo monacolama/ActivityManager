@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>model/icons/edit-button.png</file>
+        <file>model/icons/delete-button.png</file>
+        <file>model/icons/bell-button.png</file>
+        <file>model/icons/description-button.png</file>
+        <file>model/icons/location-button.png</file>
+        <file>model/icons/notification-button.png</file>
+        <file>model/icons/repeat-button.png</file>
+        <file>model/icons/clock-button.png</file>
+        <file>model/icons/load-button.png</file>
+        <file>model/icons/save-button.png</file>
+        <file>model/icons/filter-button.png</file>
+    </qresource>
+</RCC>
