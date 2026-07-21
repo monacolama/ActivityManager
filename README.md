@@ -39,7 +39,7 @@ Key architectural choices include:
 1. Clone the repository:
    ```bash
    git clone https://github.com/monacolama/ActivityManager.git
-   cd activity-manager
+   cd ActivityManager
 2. Generate the Makefile using `qmake`:
    ```bash
    qmake ActivityManager.pro
