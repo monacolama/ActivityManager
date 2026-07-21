@@ -38,7 +38,7 @@ Key architectural choices include:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/monacolama/ActivityManager.git](https://github.com/monacolama/ActivityManager.git)
+   git clone https://github.com/monacolama/ActivityManager.git
    cd activity-manager
 2. Generate the Makefile using `qmake`:
    ```bash
